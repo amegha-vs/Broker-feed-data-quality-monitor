@@ -1,0 +1,165 @@
+Broker,TradeID,Issue_Type,Severity
+Apex,TRD-APE-10039,Missing Price,CRITICAL
+Apex,TRD-APE-10046,Missing Price,CRITICAL
+Apex,TRD-APE-10249,Missing Price,CRITICAL
+Apex,TRD-APE-10329,Missing Price,CRITICAL
+Apex,TRD-APE-10423,Missing Price,CRITICAL
+Apex,TRD-APE-10433,Missing Price,CRITICAL
+Apex,TRD-APE-10482,Missing Price,CRITICAL
+Apex,TRD-APE-10491,Missing Price,CRITICAL
+Apex,TRD-APE-10505,Missing Price,CRITICAL
+Apex,TRD-APE-10563,Missing Price,CRITICAL
+Apex,TRD-APE-10610,Missing Price,CRITICAL
+Apex,TRD-APE-10616,Missing Price,CRITICAL
+Apex,TRD-APE-10684,Missing Price,CRITICAL
+Apex,TRD-APE-10787,Missing Price,CRITICAL
+Apex,TRD-APE-10803,Missing Price,CRITICAL
+Apex,TRD-APE-10820,Missing Price,CRITICAL
+Apex,TRD-APE-10970,Missing Price,CRITICAL
+Apex,TRD-APE-10977,Missing Price,CRITICAL
+Apex,TRD-APE-10979,Missing Price,CRITICAL
+Apex,TRD-APE-10143,Price Anomaly: -50.0,HIGH
+Apex,TRD-APE-10261,Price Anomaly: -50.0,HIGH
+Apex,TRD-APE-10275,Price Anomaly: -50.0,HIGH
+Apex,TRD-APE-10298,Price Anomaly: 999999.99,HIGH
+Apex,TRD-APE-10305,Price Anomaly: -50.0,HIGH
+Apex,TRD-APE-10466,Price Anomaly: -50.0,HIGH
+Apex,TRD-APE-10615,Price Anomaly: -50.0,HIGH
+Apex,TRD-APE-10618,Price Anomaly: 999999.99,HIGH
+Apex,TRD-APE-10627,Price Anomaly: 999999.99,HIGH
+Apex,TRD-APE-10643,Price Anomaly: 999999.99,HIGH
+Apex,TRD-APE-10648,Price Anomaly: -50.0,HIGH
+Apex,TRD-APE-10709,Price Anomaly: -50.0,HIGH
+Apex,TRD-APE-10919,Price Anomaly: -50.0,HIGH
+Apex,TRD-APE-10955,Price Anomaly: -50.0,HIGH
+Apex,TRD-APE-10919,Price Anomaly: -50.0,HIGH
+Apex,TRD-APE-10240,Duplicate Trade ID,MEDIUM
+Apex,TRD-APE-10253,Duplicate Trade ID,MEDIUM
+Apex,TRD-APE-10290,Duplicate Trade ID,MEDIUM
+Apex,TRD-APE-10700,Duplicate Trade ID,MEDIUM
+Apex,TRD-APE-10919,Duplicate Trade ID,MEDIUM
+Beacon,TRD-BEA-10002,Missing Price,CRITICAL
+Beacon,TRD-BEA-10073,Missing Price,CRITICAL
+Beacon,TRD-BEA-10087,Missing Price,CRITICAL
+Beacon,TRD-BEA-10150,Missing Price,CRITICAL
+Beacon,TRD-BEA-10187,Missing Price,CRITICAL
+Beacon,TRD-BEA-10210,Missing Price,CRITICAL
+Beacon,TRD-BEA-10212,Missing Price,CRITICAL
+Beacon,TRD-BEA-10324,Missing Price,CRITICAL
+Beacon,TRD-BEA-10328,Missing Price,CRITICAL
+Beacon,TRD-BEA-10376,Missing Price,CRITICAL
+Beacon,TRD-BEA-10419,Missing Price,CRITICAL
+Beacon,TRD-BEA-10582,Missing Price,CRITICAL
+Beacon,TRD-BEA-10619,Missing Price,CRITICAL
+Beacon,TRD-BEA-10624,Missing Price,CRITICAL
+Beacon,TRD-BEA-10633,Missing Price,CRITICAL
+Beacon,TRD-BEA-10730,Missing Price,CRITICAL
+Beacon,TRD-BEA-10781,Missing Price,CRITICAL
+Beacon,TRD-BEA-10847,Missing Price,CRITICAL
+Beacon,TRD-BEA-10866,Missing Price,CRITICAL
+Beacon,TRD-BEA-10896,Missing Price,CRITICAL
+Beacon,TRD-BEA-10907,Missing Price,CRITICAL
+Beacon,TRD-BEA-10177,Price Anomaly: -50.0,HIGH
+Beacon,TRD-BEA-10211,Price Anomaly: -50.0,HIGH
+Beacon,TRD-BEA-10299,Price Anomaly: -50.0,HIGH
+Beacon,TRD-BEA-10360,Price Anomaly: 999999.99,HIGH
+Beacon,TRD-BEA-10544,Price Anomaly: -50.0,HIGH
+Beacon,TRD-BEA-10603,Price Anomaly: 999999.99,HIGH
+Beacon,TRD-BEA-10699,Price Anomaly: 999999.99,HIGH
+Beacon,TRD-BEA-10734,Price Anomaly: -50.0,HIGH
+Beacon,TRD-BEA-10764,Price Anomaly: 999999.99,HIGH
+Beacon,TRD-BEA-10861,Price Anomaly: 999999.99,HIGH
+Beacon,TRD-BEA-10935,Price Anomaly: -50.0,HIGH
+Beacon,TRD-BEA-10939,Price Anomaly: -50.0,HIGH
+Beacon,TRD-BEA-10976,Price Anomaly: -50.0,HIGH
+Beacon,TRD-BEA-10499,Duplicate Trade ID,MEDIUM
+Beacon,TRD-BEA-10644,Duplicate Trade ID,MEDIUM
+Beacon,TRD-BEA-10705,Duplicate Trade ID,MEDIUM
+Beacon,TRD-BEA-10793,Duplicate Trade ID,MEDIUM
+Beacon,TRD-BEA-10903,Duplicate Trade ID,MEDIUM
+Horizon,TRD-HOR-10037,Missing Price,CRITICAL
+Horizon,TRD-HOR-10053,Missing Price,CRITICAL
+Horizon,TRD-HOR-10089,Missing Price,CRITICAL
+Horizon,TRD-HOR-10102,Missing Price,CRITICAL
+Horizon,TRD-HOR-10103,Missing Price,CRITICAL
+Horizon,TRD-HOR-10112,Missing Price,CRITICAL
+Horizon,TRD-HOR-10116,Missing Price,CRITICAL
+Horizon,TRD-HOR-10166,Missing Price,CRITICAL
+Horizon,TRD-HOR-10253,Missing Price,CRITICAL
+Horizon,TRD-HOR-10365,Missing Price,CRITICAL
+Horizon,TRD-HOR-10426,Missing Price,CRITICAL
+Horizon,TRD-HOR-10516,Missing Price,CRITICAL
+Horizon,TRD-HOR-10522,Missing Price,CRITICAL
+Horizon,TRD-HOR-10611,Missing Price,CRITICAL
+Horizon,TRD-HOR-10680,Missing Price,CRITICAL
+Horizon,TRD-HOR-10681,Missing Price,CRITICAL
+Horizon,TRD-HOR-10686,Missing Price,CRITICAL
+Horizon,TRD-HOR-10714,Missing Price,CRITICAL
+Horizon,TRD-HOR-10763,Missing Price,CRITICAL
+Horizon,TRD-HOR-10770,Missing Price,CRITICAL
+Horizon,TRD-HOR-10813,Missing Price,CRITICAL
+Horizon,TRD-HOR-10850,Missing Price,CRITICAL
+Horizon,TRD-HOR-10943,Missing Price,CRITICAL
+Horizon,TRD-HOR-10468,Price Anomaly: -50.0,HIGH
+Horizon,TRD-HOR-10538,Price Anomaly: 999999.99,HIGH
+Horizon,TRD-HOR-10544,Price Anomaly: -50.0,HIGH
+Horizon,TRD-HOR-10644,Price Anomaly: -50.0,HIGH
+Horizon,TRD-HOR-10796,Price Anomaly: -50.0,HIGH
+Horizon,TRD-HOR-10859,Price Anomaly: 999999.99,HIGH
+Summit,TRD-SUM-10009,Missing Price,CRITICAL
+Summit,TRD-SUM-10324,Missing Price,CRITICAL
+Summit,TRD-SUM-10342,Missing Price,CRITICAL
+Summit,TRD-SUM-10344,Missing Price,CRITICAL
+Summit,TRD-SUM-10368,Missing Price,CRITICAL
+Summit,TRD-SUM-10435,Missing Price,CRITICAL
+Summit,TRD-SUM-10645,Missing Price,CRITICAL
+Summit,TRD-SUM-10743,Missing Price,CRITICAL
+Summit,TRD-SUM-10766,Missing Price,CRITICAL
+Summit,TRD-SUM-10874,Missing Price,CRITICAL
+Summit,TRD-SUM-10885,Missing Price,CRITICAL
+Summit,TRD-SUM-10908,Missing Price,CRITICAL
+Summit,TRD-SUM-10957,Missing Price,CRITICAL
+Summit,TRD-SUM-10095,Price Anomaly: 999999.99,HIGH
+Summit,TRD-SUM-10288,Price Anomaly: 999999.99,HIGH
+Summit,TRD-SUM-10315,Price Anomaly: -50.0,HIGH
+Summit,TRD-SUM-10347,Price Anomaly: 999999.99,HIGH
+Summit,TRD-SUM-10431,Price Anomaly: 999999.99,HIGH
+Summit,TRD-SUM-10469,Price Anomaly: 999999.99,HIGH
+Summit,TRD-SUM-10712,Price Anomaly: 999999.99,HIGH
+Summit,TRD-SUM-10788,Price Anomaly: 999999.99,HIGH
+Summit,TRD-SUM-10828,Price Anomaly: -50.0,HIGH
+Summit,TRD-SUM-10942,Price Anomaly: -50.0,HIGH
+Vanguard,TRD-VAN-10001,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10005,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10049,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10078,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10141,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10201,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10224,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10323,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10377,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10388,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10435,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10509,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10553,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10571,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10582,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10618,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10645,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10692,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10728,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10730,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10731,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10785,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10835,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10836,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10900,Missing Price,CRITICAL
+Vanguard,TRD-VAN-10112,Price Anomaly: -50.0,HIGH
+Vanguard,TRD-VAN-10134,Price Anomaly: 999999.99,HIGH
+Vanguard,TRD-VAN-10322,Price Anomaly: -50.0,HIGH
+Vanguard,TRD-VAN-10380,Price Anomaly: -50.0,HIGH
+Vanguard,TRD-VAN-10409,Price Anomaly: 999999.99,HIGH
+Vanguard,TRD-VAN-10417,Price Anomaly: -50.0,HIGH
+Vanguard,TRD-VAN-10466,Price Anomaly: -50.0,HIGH
+Vanguard,TRD-VAN-10560,Price Anomaly: 999999.99,HIGH
+Vanguard,TRD-VAN-10818,Price Anomaly: 999999.99,HIGH
